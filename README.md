@@ -8,14 +8,15 @@ Operations at A\&B Motors (Amite, LA).
 
 ## Projects
 
-* **Wallpaper** — tiny wallpaper tool for i3/X11 using `feh`; multi‑monitor aware; written in C
-* **Screenrecorder** — a one‑bash‑script, out‑of‑the‑box recorder/installer (WIP)
+* **Muralis** — tiny wallpaper tool for i3/X11 using `feh`; multi‑monitor aware; written in C
+* **Memor** — a one‑bash‑script, out‑of‑the‑box recorder/installer (WIP)
 
 ## Stack
 
 * Arch Linux · i3 · Xorg
 * C, Bash
 * fish, VS Code, kitty
+* ChatGPT · prompt engineering
 
 ## Contact
 
